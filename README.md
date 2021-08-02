@@ -1,3 +1,3 @@
-# CTF-Projects
-See all the CTF report
+# CTFProjects
+See all the CTF report and private projects
 
