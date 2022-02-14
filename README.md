@@ -1,3 +1,3 @@
 # CTFProjects
-See all the CTF report and private projects
+See all the CTF walkthrough with detailed step by step report
 
